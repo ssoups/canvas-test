@@ -1,0 +1,17 @@
+{
+  "name": "potential-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "run": "node index.cjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "discord.js": "^13.8.1",
+    "node-fetch": "^2.6.7"
+  }
+}
